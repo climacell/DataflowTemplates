@@ -26,7 +26,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <beam.version>2.25.0</beam.version>
     <debezium.version>0.9.5.Final</debezium.version>
-    <grpc.version>1.25.0</grpc.version>
+    <grpc.version>1.53.0</grpc.version>
     <guava.version>25.1-jre</guava.version>
     <slf4j.version>1.7.25</slf4j.version>
     <gcp.version>1.82.0</gcp.version>
